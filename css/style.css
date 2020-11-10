@@ -14,7 +14,7 @@ span {
     display: block;
     width: 80px;
     height: 2px;
-    background: #d80ac8;
+    background: #FB2056;
     margin: auto;
     margin-bottom: 17px;
 }
@@ -192,11 +192,11 @@ header .banner-section .banner-content i {
 	margin: 15px 0px;
 }
 
-.explore-content span{
-	display: inline-block;
-    width: 80px;
+.explore-content span {
+    display: inline-block;
+    width: 55px;
     height: 2px;
-    background: #d80ac8;
+    background: #FB2056;
 }
 
 
@@ -232,9 +232,10 @@ header .banner-section .banner-content i {
 	text-transform: uppercase;
 }
 .tour-section .tour-content span{
-	margin: left !important;
-	display: inline-block;
-	width: 80px;
+    display: inline-block;
+    width: 55px;
+    height: 2px;
+    background: #FB2056;
 }
 .tour-section .tour-content h5{
 	font-size: 16px;
