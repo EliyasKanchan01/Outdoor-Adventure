@@ -1,0 +1,293 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+li{
+	list-style: none;
+}
+a, a:hover{
+	text-decoration: none;
+}
+
+span {
+    display: block;
+    width: 80px;
+    height: 2px;
+    background: #d80ac8;
+    margin: auto;
+    margin-bottom: 17px;
+}
+
+
+
+
+header{
+	background: url(../images/bi.jpg) center top no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+header .banner-section{
+	padding: 300px 0px;
+
+}
+header .navbar{
+
+}
+header .navbar h1 {
+    font-size: 33px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+}
+header .navbar h1 p {
+
+    font-size: 22px;
+}
+header .navbar .nav-link {
+    color: #fff !important;
+    font-weight: 600;
+}
+header .navbar .btn {
+    color: #fff;
+    font-weight: 600;
+    border: 1px solid #fff;
+    border-radius: 30px;
+}
+header .navbar .btn:hover{
+    color: #fff;
+    background-color:#d6075d;
+    border-color: #d6075d;
+}
+header .banner-section .banner-content{
+
+}
+
+header .banner-section .banner-content h5 {
+    font-size: 18px;
+    color: #fff;
+    font-weight: 200;
+    margin-bottom: 10px;
+}
+
+header .banner-section .banner-content h1 {
+    font-size: 48px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+header .banner-section .banner-content a {
+    font-size: 16px;
+    color: #fff;
+    padding: 5px 18px;
+    border: 2px solid #fff;
+    border-radius: 30px;
+    margin-top: 51px;
+    display: block;
+    width: 160px;
+    margin: auto;
+    margin-top: 51px;
+}
+header .banner-section .banner-content a:hover {
+
+    color: #fff;
+    background-color:#d6075d;
+    border-color: #d6075d;
+
+}
+header .banner-section .banner-content i {
+    margin-left: 13px;
+}
+
+
+
+
+/******************************************/
+.quote {
+    background: #f4f5f9;
+    padding: 15px 0px;
+}
+.quote-img {
+    width: 113px;
+    margin: auto;
+}
+.quote-img img{
+
+}
+.quote-content{
+
+}
+.quote-content h4 {
+    font-size: 17px;
+    font-weight: 500;
+    color: #8c949c;
+}
+.quote-content h6 {
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #8c949c;
+}
+
+
+
+/******************************************/
+
+.events{
+	padding: 15px 0px;
+
+}
+.events .title{
+    padding: 10px 0px;
+}
+
+.events .title h2 {
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: uppercase;
+
+}
+
+.events .event-content{
+    padding: 20px;
+}
+.events .event-content img {
+    width: 400px;
+    height: 300px;
+    box-shadow: 7px 7px 0px 0px #EDEDED;
+    border-radius: 5px;
+}
+.events .event-content h2 {
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 20px 0px;
+}
+.events .event-content p{
+    font-size: 20px;
+}
+.events .event-content a{
+    color: #d6075d;
+    font-size: 18px;
+}
+
+
+
+/**********************************/
+
+
+
+.explore{
+	background: url(../images/ex.jpeg) center top no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 100px 0px;
+}
+.explore .explore-content {
+    margin-top: 60px;
+}
+.explore .explore-content h1{
+	font-size: 58px;
+	color: #fff;
+	margin: 15px 0px;
+}
+
+.explore-content span{
+	display: inline-block;
+    width: 80px;
+    height: 2px;
+    background: #d80ac8;
+}
+
+
+.explore .explore-content h5{
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 28px;
+	color: #fff;
+	margin: 20px 0px;
+}
+
+.explore .explore-content a{
+	color: #fff;
+	font-size: 18px;
+	line-height: 2;
+	display: block;
+	margin: 40px 0px;
+	
+}
+
+/********************************************/
+
+.tour-section{
+	padding: 80px 0px;
+}
+
+.tour-section .tour-content{
+	padding: 10px;
+}
+.tour-section .tour-content h1{
+	font-size: 35px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.tour-section .tour-content span{
+	margin: left !important;
+	display: inline-block;
+	width: 80px;
+}
+.tour-section .tour-content h5{
+	font-size: 16px;
+	line-height: 26px;
+	color: darkgray;
+	margin: 10px 0px;
+}
+.tour-section .tour-content a{
+    font-size: 16px;
+    color: #fff;
+    padding: 5px 18px;
+    border: 2px solid #fff;
+    border-radius: 30px;
+     background-color: #d6075d;
+    margin-top: 51px;
+    display: block;
+    width: 160px;
+    margin-top: 51px;
+}
+
+.tour-section .tour-content a:hover{
+
+    color: #d6075d;
+    background-color: transparent;
+    border-color: #d6075d;
+}
+
+
+.tour-section .tour-img-1{
+
+}
+.tour-section .tour-img-1 img{
+margin: 5px 0px;
+}
+.tour-section .tour-img-2{
+
+}
+.tour-section .tour-img-2 img{
+margin: 5px 0px;
+}
+
+
+/******************************************/
+
+footer{
+	padding: 30px 0px;
+	background: #191919;
+}
+footer .footer-content p{
+	color: #B7BDAE;
+}
+footer .footer-content h6{
+	color: #B7BDAE;
+}
+/******************************************/
+
